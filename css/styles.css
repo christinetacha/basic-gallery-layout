@@ -102,3 +102,31 @@ body {
     width: 45vw;
   }
 }
+
+@media only screen and (max-width: 700px) {
+  .box1 {
+    float: none;
+    width: 90vw;
+  }
+  .box2 {
+    float: none;
+    width: 90vw;
+  }
+  .box3 {
+    float: none;
+    width: 90vw;
+  }
+  .box4 {
+    float: none;
+    width: 90vw;
+  }
+  .box5 {
+    float: none;
+    width: 90vw;
+  }
+  .box6 {
+    float: none;
+    width: 90vw;
+  }
+}
+}
