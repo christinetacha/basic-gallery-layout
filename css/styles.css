@@ -1,0 +1,72 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: black;
+  height: 100px;
+  width: 26%;
+}
+
+.box1 {
+  background-color: #e60000;
+  height: 200px;
+  width: 350px;
+}
+
+.box2 {
+  background-color: #ff6600;
+  height: 200px;
+  width: 350px;
+}
+
+.box3 {
+  background-color: #ffcc00;
+  height: 200px;
+  width: 350px;
+}
+
+.box4 {
+  background-color: #00b300;
+  height: 200px;
+  width: 350px;
+}
+
+.box5 {
+  background-color: #0000e6;
+  height: 200px;
+  width: 350px;
+}
+
+.box6 {
+  background-color: #6600cc;
+  height: 200px;
+  width: 350px;
+}
+
+.row1 {
+  width: 100%;
+  display: block;
+}
+
+.row2 {
+  width: 100%;
+  display: block;
+}
